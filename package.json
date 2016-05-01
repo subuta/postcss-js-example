@@ -1,0 +1,22 @@
+{
+  "name": "postcss-js-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "example": "node ./example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://subuta@github.com/subuta/postcss-js-example.git"
+  },
+  "author": "subuta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subuta/postcss-js-example/issues"
+  },
+  "homepage": "https://github.com/subuta/postcss-js-example#readme",
+  "dependencies": {
+    "postcss-js": "^0.1.2"
+  }
+}

@@ -1,7 +1,10 @@
 # postcss-js-example
 
 # issue
-If i call postcss-js with this object, postcss raise error. 
+If i call postcss-js with this object(cssInJS definition), 
+postcss-js raise error.
+ 
+please see `example.js` for detailed information.
 
 ```
 [object]
